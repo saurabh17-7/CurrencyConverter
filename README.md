@@ -39,6 +39,15 @@ Deployed using **Amazon S3** and powered by a **serverless backend** using **API
 > *(or update this with your S3 static website URL)*
 
 ---
+Test Event(lambda function):
+{
+  "queryStringParameters": {
+    "amount": "100",
+    "from": "USD",
+    "to": "INR"
+  }
+}
+
 
 ## 📦 How to Use
 

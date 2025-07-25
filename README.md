@@ -26,7 +26,7 @@ Deployed using **Amazon S3** and powered by a **serverless backend** using **API
 ---
 
 ## 📸 Screenshot
-![Uploading Screenshot 2025-07-25 183646.png…]()
+
 
 ![Currency Converter Screenshot](screenshot.png)
 

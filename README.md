@@ -27,6 +27,7 @@ Deployed using **Amazon S3** and powered by a **serverless backend** using **API
 
 ## 📸 Screenshot
 
+<img width="1917" height="861" alt="currency png" src="https://github.com/user-attachments/assets/fe8675b9-0c7c-4463-a5a2-f51966b8ab55" />
 
 ![Currency Converter Screenshot](screenshot.png)
 
